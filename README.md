@@ -87,3 +87,4 @@ cs2_mod/
 - Run as Administrator (required for `OpenProcess`)
 - Anti-cheat status: use on private/offline servers only
 - Offsets break on game updates — redump with cs2-dumper
+MY DISCORD = sourcecodelibbsd.so
